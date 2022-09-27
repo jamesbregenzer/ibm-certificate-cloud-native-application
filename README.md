@@ -1,1 +1,1 @@
-# coding-project-template
+# Movies Review Database
